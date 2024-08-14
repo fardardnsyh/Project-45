@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+th {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+td {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  border-top: 1px solid #18181b;
+  text-align: center;
+}
+
+th, td {
+  width: calc(100% / 7);
+}

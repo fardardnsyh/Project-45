@@ -1,0 +1,16 @@
+{
+  "id": "mig_clvntf7paej1upqfq200",
+  "parentID": "mig_clvnt9k889rldatus1e0",
+  "checksum": "1:3c4d31d6e98608768e2f87b6c4f2be276332a6a17aa224495859b47cd55cc309",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "postingLink",
+          "type": "string"
+        },
+        "table": "applications"
+      }
+    }
+  ]
+}

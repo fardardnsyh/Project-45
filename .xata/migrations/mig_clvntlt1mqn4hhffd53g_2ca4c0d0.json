@@ -1,0 +1,18 @@
+{
+  "id": "mig_clvntlt1mqn4hhffd53g",
+  "parentID": "mig_clvntf7paej1upqfq200",
+  "checksum": "1:2ca4c0d02e6081cff4086d4d065671de9676ceafe6c608b9f954011c77364eb5",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "status",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "applied"
+        },
+        "table": "applications"
+      }
+    }
+  ]
+}

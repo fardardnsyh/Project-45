@@ -1,0 +1,16 @@
+{
+  "id": "mig_clvjpivpaej1upqfpf3g",
+  "parentID": "mig_clvjp5vpaej1upqfpeog",
+  "checksum": "1:65f5f4ebeb3f7ba02f755168fd9c5f91a717dd4282628c0614d97ddfbf7831e7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "position",
+          "type": "string"
+        },
+        "table": "applications"
+      }
+    }
+  ]
+}

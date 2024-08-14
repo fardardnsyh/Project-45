@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Brey-Rivera-s-workspace-voa7ek.us-east-1.xata.sh/db/jobtrackerv2-app",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

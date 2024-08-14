@@ -1,0 +1,18 @@
+{
+  "id": "mig_clvojd4889rldatus5vg",
+  "parentID": "mig_clvntps889rldatus1m0",
+  "checksum": "1:5945cb723eba1e82b47b38b7215e0dd991ca9c6bd84f69dba5bbb3ad6f9148c4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "lastUpdate",
+          "type": "datetime",
+          "notNull": true,
+          "defaultValue": "now"
+        },
+        "table": "applications"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_clvntps889rldatus1m0",
+  "parentID": "mig_clvntlt1mqn4hhffd53g",
+  "checksum": "1:29419cc1a655834811f50ec8f6d6fe8761a707151261f8c6636a6bb27ee24f6c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "notes",
+          "type": "text"
+        },
+        "table": "applications"
+      }
+    }
+  ]
+}

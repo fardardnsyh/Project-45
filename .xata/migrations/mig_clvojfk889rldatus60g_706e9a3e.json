@@ -1,0 +1,14 @@
+{
+  "id": "mig_clvojfk889rldatus60g",
+  "parentID": "mig_clvojd4889rldatus5vg",
+  "checksum": "1:706e9a3e825de27dd422bfc861626b87f0bc13ac8858bf416e1abc447a49a30e",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "lastUpdated",
+        "oldName": "lastUpdate",
+        "table": "applications"
+      }
+    }
+  ]
+}

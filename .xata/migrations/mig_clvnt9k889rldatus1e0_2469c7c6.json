@@ -1,0 +1,18 @@
+{
+  "id": "mig_clvnt9k889rldatus1e0",
+  "parentID": "mig_clvke5c889rldaturo80",
+  "checksum": "1:2469c7c66c58b832c15cdbd0bb788072b452bf273758b644ce28b840a511edad",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "company",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "null"
+        },
+        "table": "applications"
+      }
+    }
+  ]
+}
